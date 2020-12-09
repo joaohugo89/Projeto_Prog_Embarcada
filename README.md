@@ -7,6 +7,6 @@ Projeto Programação Embarcada - Chuveiro Eletrônico
   
   O projeto foi testado e está funcionando utilizando o simulador PICSimLab do Luis Claudio Gambôa Lopes (https://www.linkedin.com/in/luis-claudio-gamb%C3%B4a-lopes-6bbbb6182/).  
   
-  O projeto funcionando pode ser visto através do vídeo no (link).
+  O projeto funcionando pode ser visto através do vídeo no (https://youtu.be/knk7ja27xFY).
   
   Os professores responsáveis pela condução da disciplina foram o professor Otávio Gomes (https://www.linkedin.com/in/otavio-gomes/) e o professor Rodrigo Almeida (https://www.linkedin.com/in/rmaalmeida/).
